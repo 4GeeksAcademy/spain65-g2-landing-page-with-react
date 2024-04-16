@@ -8,7 +8,7 @@ export const Footer = () => {
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
         © 2024 Copyright :
         <a style={{textDecoration: 'none'}}className='text-white' href='www.hamburguesasroberto.com'>
-        &nbsp; Hamburguesas Roberto
+        &nbsp; Roberto Burguers
         </a>
       </div>
     </div>
